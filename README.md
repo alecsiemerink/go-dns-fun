@@ -6,7 +6,6 @@ I wrote this to learn more about DNS and Go.
 This consists of 2 parts; 
 1. A DNS server that responds to queries to `about` with a TXT record containing some information about me, like a resume. 
 2. A Simple webserver that serves a static page with simple documentation how to use this.
-3. The Terraform code to deploy this to AWS.
 
 ### How to use
 1. Clone this repo
